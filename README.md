@@ -37,10 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Ramik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramik4-eb&show_icons=true&theme=dark)
-
 ---
 
 ## 📫 Contact
