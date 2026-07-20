@@ -15,7 +15,7 @@
 
 ## ⚙️ Tech Stack
 
-HTML5 | CSS3 | Bootstrap 5 | JavaScript 
+HTML5 | CSS3 | Bootstrap 5 | JavaScript | Git
 
 ---
 
